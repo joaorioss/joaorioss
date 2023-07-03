@@ -14,8 +14,8 @@
 
 <div style="display: inline-block;"><br/>
     <img align="center" alt ="Html5" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt ="C#" src = "[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png)"/>
-    <img align="center" alt ="MySql" src = "[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://cdn-icons-png.flaticon.com/512/5968/5968313.png)"/>
+    <img align="center" alt ="C#" src = "https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png"/>
+    <img align="center" alt ="MySql" src = "https://cdn-icons-png.flaticon.com/512/5968/5968313.png"/>
     <img align="center" alt ="PHP" src = "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
     <img align="center" alt ="JavaScript" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img align="center" alt ="JavaScript" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
